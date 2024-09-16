@@ -1,1 +1,1 @@
-check workflows/actions
+check workflows/actions for install
